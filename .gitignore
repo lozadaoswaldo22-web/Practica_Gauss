@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+# Default ignored files
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
